@@ -1,10 +1,15 @@
 <div align='center'>
-<img src='https://readme-typing-svg.herokuapp.com?font=ubuntu&color=16A085&center=true&lines=Front+End+Developer;Enthusiastic+Programmer;Open+Source+Contributor;Code+For+Everyone'/>
+<img src='https://readme-typing-svg.herokuapp.com?font=ubuntu&color=16A085&center=true&lines=Front+End+Developer;React+Programmer;Code+For+Everyone'/>
+
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+### 👋 Welcome 👋
 </div>
 
-### السلام عليكم 
 
-I'm working on Front End Development to make user's daily life more easier.</br>
+
+
+
+I like Front End Development to make user's daily life more easier.</br>
 
 - 🔭 I’m currently working on react templates and npm modules
 - 🌱 I’m currently learning node.js and java back-end
